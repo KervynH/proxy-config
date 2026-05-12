@@ -16,11 +16,11 @@
 🛑 广告拦截,https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/IDM.list
 🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
 🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
-;🤖 AI服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OpenAi.list
-;🤖 AI服务,https://raw.githubusercontent.com/juewuy/ShellClash/master/rules/ai.list
-;🤖 AI服务,https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/Copilot.list
-;🤖 AI服务,https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/GithubCopilot.list
-;🤖 AI服务,https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/Claude.list
+🤖 AI服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OpenAi.list
+🤖 AI服务,https://raw.githubusercontent.com/juewuy/ShellClash/master/rules/ai.list
+🤖 AI服务,https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/Copilot.list
+🤖 AI服务,https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/GithubCopilot.list
+🤖 AI服务,https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/Claude.list
 🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
 🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
 🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
