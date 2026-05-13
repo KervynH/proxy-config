@@ -1,12 +1,17 @@
-# 自用直连网站列表
+# 自用直连网站列表 #
 
 DOMAIN,cn.bing.com
-DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,ustraveldocs
+
+# 金融服务
+DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,bochk
 DOMAIN-KEYWORD,icbc
 DOMAIN-KEYWORD,hsbc
 DOMAIN-KEYWORD,chase
 DOMAIN-KEYWORD,citi
 DOMAIN-KEYWORD,bankofamerica
+
+# Wi-Fi Calling
 DOMAIN-SUFFIX,3gppnetwork.org
+DOMAIN-KEYWORD,epdg,DIRECT
